@@ -11,7 +11,7 @@
         android:theme="@style/Theme.EstateHouse">
         <activity
             android:name=".RegisterActivity"
-            android:exported="false" />
+            android:exported="true" />
     </application>
 
 </manifest>
